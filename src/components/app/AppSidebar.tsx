@@ -48,7 +48,7 @@ export default function AppSidebar() {
             <Shield className="h-4 w-4 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="text-sm font-bold text-foreground">VerifiedHelp</h1>
+            <h1 className="text-sm font-bold text-foreground">SafeHands</h1>
             <p className="text-[10px] text-muted-foreground capitalize">{user.role} Portal</p>
           </div>
         </div>
