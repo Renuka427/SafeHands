@@ -46,7 +46,6 @@ export default function LoginPage() {
         </div>
 
         <p className="text-center text-[10px] text-muted-foreground mt-8">
-          Demo mode — select a role to explore the platform
         </p>
       </div>
     </div>
