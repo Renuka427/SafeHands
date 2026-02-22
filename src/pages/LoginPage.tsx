@@ -19,7 +19,7 @@ export default function LoginPage() {
           <div className="inline-flex h-14 w-14 rounded-2xl bg-primary/15 items-center justify-center mb-4 glow-primary">
             <Shield className="h-7 w-7 text-primary" />
           </div>
-          <h1 className="text-2xl font-bold text-foreground mb-1">Verified Local Help</h1>
+          <h1 className="text-2xl font-bold text-foreground mb-1">SafeHands - Verified Local Help</h1>
           <p className="text-sm text-muted-foreground">Enterprise workforce governance platform</p>
         </motion.div>
 
